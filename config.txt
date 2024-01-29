@@ -1,0 +1,4 @@
+#Flask server properties
+port=8890
+ip=0.0.0.0
+debug=True
